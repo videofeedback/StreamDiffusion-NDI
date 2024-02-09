@@ -1,3 +1,5 @@
+[![Discord Follow](https://dcbadge.vercel.app/api/server/feYhyYznDf?style=flat)](https://discord.gg/feYhyYznDf)
+
 # StreamDiffusion-NDI
 <a href="https://discord.com/invite/wNW8xkEjrf"><img src="https://discord.com/api/guilds/838923088997122100/widget.png?style=shield" alt="Discord Shield"/></a>
 
